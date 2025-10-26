@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ander/Arduino/libraries/WiFiEsp-master/src",
+                "${workspaceFolder}/client/lib/WiFiEsp/src",
+                "${workspaceFolder}/client/lib/LiquidCrystal_I2C",
+                "${workspaceFolder}/client/lib/rfid/src",
+                "${workspaceFolder}/client/lib/DHT-sensor-library",
+                "${workspaceFolder}/client/lib/Adafruit_Sensor",
+                "${workspaceFolder}/client/lib/Keypad/src"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
