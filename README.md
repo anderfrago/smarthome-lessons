@@ -5,14 +5,15 @@
 > @author: Ander F.L. <ander_frago@cuatrovientos.org>
 
 This project-based learning (PBL) activity is designed for Vocational Education and Training (VET) computer science students at Cuatrovientos. It challenges students to build a complete Internet of Things (IoT) solution by integrating hardware, software, cloud services, and entrepreneurial thinking. Students will work in groups to develop a real-world prototype, from hardware assembly to digital twin creation, simulating a complete IoT product development cycle.
-Project components
+
+## Project components
 
 ### Slave device: Osoyoo Smart Home IoT Kit
 
 - **Hardware**: Students will use the Osoyoo Smart Home IoT Kit, which includes an Arduino MEGA2560 and various sensors and actuators.
 - **Function**: The Arduino board acts as the "slave," managing local interactions with sensors and actuators and communicating via the serial port.
 
-### Master device: Raspberry Pi 4
+### Master device: Raspberry Pi
 
 - **Hardware**: A Raspberry Pi serves as the "master" controller and gateway to the internet.
 
@@ -49,5 +50,5 @@ Project components
 3. Web server development: Set up the Flask server on the Raspberry Pi to handle communication and control logic.
 4. AWS IoT integration: Connect the Flask server to AWS IoT Core, configure policies, and handle secure cloud messaging.
 5. Digital Twin creation: Build a virtual representation of the project in Cisco Packet Tracer, configuring the virtual devices to mirror the behavior of the physical hardware.
-6. Mobile app development: Create the mobile application to provide a user interface for controlling and monitoring the system. ç
+6. Mobile app development: Create the mobile application to provide a user interface for controlling and monitoring the system.
 7. Testing and documentation: Thoroughly test the entire system and document the project, including the hardware schematic, software code, and a final presentation of the entrepreneurial solution.
