@@ -31,7 +31,7 @@ This project-based learning (PBL) activity is designed for Vocational Education 
 - **Function**: Students will create a digital twin of their IoT solution in Cisco Packet Tracer to simulate and visualize network interactions.
 - **Benefit**: This helps them understand the network layer of their project without physical constraints, and it provides a virtual replica that can be synchronized with the real hardware.
 
-### Learning challenges
+## Learning challenges
 
 1.  **Mobile application development**: Design and create a mobile application for remote control of the smart home. The app should communicate with the Flask web server on the Raspberry Pi to control actuators (like lights or motors) and display data from sensors (temperature, motion).
 2.  **IoT solution design**: In collaboration with the entrepreneurship subject, each group must:
@@ -43,7 +43,7 @@ This project-based learning (PBL) activity is designed for Vocational Education 
 
 3. **Cloud-to-device communication**: Ensure seamless, bidirectional communication between the mobile app, the Flask server, AWS IoT, and the Arduino-controlled hardware. This involves using the MQTT protocol for lightweight messaging.
 
-### Project workflow
+## Project workflow
 
 1. Team formation and ideation: Students form groups and, in coordination with the entrepreneurship subject, generate an idea for their IoT solution.
 2. Hardware setup: Assemble the Osoyoo kit and configure the Raspberry Pi to communicate with the Arduino via the serial port.
